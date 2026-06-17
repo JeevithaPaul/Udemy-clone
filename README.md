@@ -62,4 +62,6 @@ This project was developed to practice:
 
 Jeevitha Paul
 
-GitHub: https://github.com/your-username
+GitHub: https://jeevithapaul.github.io/Udemy-clone/
+
+   
